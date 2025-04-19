@@ -12,7 +12,9 @@ Educational tools for language learning.
 
 Dataset:
 The model is trained on the custom dataset.
+
 Link to processed dataset: https://drive.google.com/file/d/1JJ9yrs9J0QNc3ldw43PWXc_BcAnJvOp3/view?usp=drive_link
+
 Link to original dataset: https://drive.google.com/drive/folders/1vzrVQs6BWuTonXPVjdo3ZjMPjhrJnQE1?usp=drive_link
 
 Features:
